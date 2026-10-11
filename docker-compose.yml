@@ -1,0 +1,26 @@
+# Local PostgreSQL for development (same major version as Neon's default).
+#   pnpm db:up      start it        pnpm db:down   stop it (data is kept)
+# Port 5433 on the host, so it does not clash with a native PostgreSQL on 5432.
+# The credentials below are for this local container only, never for Neon.
+services:
+  db:
+    image: postgres:17-alpine
+    container_name: bandly-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: bandly
+      POSTGRES_PASSWORD: bandly
+      POSTGRES_DB: bandly
+    ports:
+      - "5433:5432"
+    volumes:
+      - bandly-pgdata:/var/lib/postgresql/data
+      - ./docker/postgres-init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bandly -d bandly"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+
+volumes:
+  bandly-pgdata:
