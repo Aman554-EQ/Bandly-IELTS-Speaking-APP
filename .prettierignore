@@ -1,0 +1,9 @@
+public/voice/
+pnpm-lock.yaml
+.next/
+.next-verify/
+coverage/
+plan.md
+plan-2.md
+AGENTS.md
+tests/e2e/fixtures/

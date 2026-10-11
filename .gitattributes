@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.mp3 binary
+*.onnx binary
+*.bin binary
+*.ico binary
+*.png binary
+*.docx binary
