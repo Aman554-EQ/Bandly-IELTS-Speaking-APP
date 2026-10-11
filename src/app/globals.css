@@ -1,0 +1,237 @@
+@import "tailwindcss";
+
+/*
+ * Bandly themes. Selected with data-theme on <html> (set before paint by the
+ * inline script in layout.tsx, switched by the header buttons).
+ *
+ *  light  "Soft": calm sage-tinted paper, easy on the eyes for long sessions
+ *  white  "White": crisp pure white, maximum clarity
+ *  dark   "Dark":  low-glare charcoal green
+ *
+ * All text colours meet WCAG AAA (7:1) for body text on their backgrounds;
+ * muted text meets at least AA (4.5:1).
+ */
+:root,
+[data-theme="light"] {
+  --bg: #f1f4ef;
+  --surface: #ffffff;
+  --surface-2: #e8ede6;
+  --ink: #142019;
+  --muted: #47534c;
+  --line: #cfd8cd;
+  --line-strong: #a9b6a7;
+  --primary: #1b5e55;
+  --primary-hover: #154b44;
+  --primary-ink: #ffffff;
+  --primary-soft: #dcebe7;
+  --accent: #8a5300;
+  --accent-soft: #f5e8cf;
+  --success: #1f6b42;
+  --success-soft: #dceee2;
+  --warning: #8a5300;
+  --danger: #b42318;
+  --danger-soft: #fbe4e1;
+  --recording: #c8102e;
+  --focus: #2457d6;
+  --shadow: 0 1px 2px rgb(20 32 25 / 0.06), 0 4px 16px rgb(20 32 25 / 0.06);
+  color-scheme: light;
+}
+
+[data-theme="white"] {
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #f4f6f9;
+  --ink: #0b1220;
+  --muted: #3f4a5c;
+  --line: #d9dfe8;
+  --line-strong: #aab4c3;
+  --primary: #1d4ed8;
+  --primary-hover: #1a43bb;
+  --primary-ink: #ffffff;
+  --primary-soft: #e3ebfd;
+  --accent: #8a4b00;
+  --accent-soft: #fdf1dc;
+  --success: #166534;
+  --success-soft: #dcf2e3;
+  --warning: #8a4b00;
+  --danger: #b42318;
+  --danger-soft: #fde5e2;
+  --recording: #c8102e;
+  --focus: #1d4ed8;
+  --shadow: 0 1px 2px rgb(11 18 32 / 0.06), 0 4px 14px rgb(11 18 32 / 0.05);
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --bg: #0f1512;
+  --surface: #161e1a;
+  --surface-2: #1e2823;
+  --ink: #e9efeb;
+  --muted: #a8b5ad;
+  --line: #2b3832;
+  --line-strong: #43534a;
+  --primary: #6fc7b8;
+  --primary-hover: #8ad4c7;
+  --primary-ink: #08110e;
+  --primary-soft: #1b3330;
+  --accent: #f0b660;
+  --accent-soft: #33291a;
+  --success: #6fd09a;
+  --success-soft: #183326;
+  --warning: #f0b660;
+  --danger: #ff8a80;
+  --danger-soft: #3a1d1b;
+  --recording: #ff5c6c;
+  --focus: #8fb4ff;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.4), 0 4px 16px rgb(0 0 0 / 0.3);
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-ink: var(--primary-ink);
+  --color-primary-soft: var(--primary-soft);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-recording: var(--recording);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-serif);
+  --font-mono: var(--font-mono-face);
+  --radius-card: 14px;
+  --shadow-card: var(--shadow);
+}
+
+html {
+  font-size: 106.25%; /* 17px base for comfortable reading */
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+::selection {
+  background: var(--primary-soft);
+  color: var(--ink);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow);
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.92);
+    opacity: 0.7;
+  }
+  100% {
+    transform: scale(1.55);
+    opacity: 0;
+  }
+}
+.recording-ring::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  border: 3px solid var(--recording);
+  animation: pulse-ring 1.4s ease-out infinite;
+}
+
+@keyframes thinking {
+  0%,
+  80%,
+  100% {
+    opacity: 0.25;
+  }
+  40% {
+    opacity: 1;
+  }
+}
+.thinking-dot {
+  animation: thinking 1.2s infinite ease-in-out;
+}
+.thinking-dot:nth-child(2) {
+  animation-delay: 0.15s;
+}
+.thinking-dot:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+/* Home: "examiner is listening" bars. Still for people who prefer less motion. */
+@keyframes eq-bounce {
+  0%,
+  100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+.eq-bar {
+  transform-origin: bottom;
+  animation: eq-bounce 1.1s ease-in-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .eq-bar {
+    animation: none;
+  }
+}
+
+/* Checkboxes and radios: at least 20px (easy to tap), in the theme colour. */
+input[type="checkbox"],
+input[type="radio"] {
+  width: 1.25rem;
+  height: 1.25rem;
+  flex-shrink: 0;
+  accent-color: var(--primary);
+}
+
+/*
+ * Narrow-screen safety nets: grid items may shrink below their content width
+ * (otherwise one long word or a min-width control widens the whole page), and
+ * long words such as email addresses or URLs wrap instead of overflowing.
+ */
+.grid > * {
+  min-width: 0;
+}
+body {
+  overflow-wrap: break-word;
+}
