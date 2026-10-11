@@ -161,4 +161,4 @@ tests/          database, end-to-end and live tests
 
 ## License
 
-© Aman554-EQ. All rights reserved. Shared for learning and portfolio purposes.
+© [Aman554-EQ](https://github.com/Aman554-EQ). All rights reserved. Shared for learning and portfolio purposes.
