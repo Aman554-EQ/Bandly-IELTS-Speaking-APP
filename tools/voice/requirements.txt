@@ -1,0 +1,7 @@
+# Offline voice rendering for the examiner (admin-side only; students never run this).
+kokoro-onnx==0.4.9
+soundfile>=0.12
+numpy>=1.26
+python-dotenv>=1.0
+requests>=2.32
+lameenc>=1.8

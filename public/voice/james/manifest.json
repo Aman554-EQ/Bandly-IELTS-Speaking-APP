@@ -1,0 +1,1483 @@
+{
+  "version": 1,
+  "examiner": {
+    "id": "james",
+    "name": "James Carter",
+    "engine": "kokoro",
+    "voice": "bm_george"
+  },
+  "clips": {
+    "ack.ofcourse": {
+      "file": "ack.ofcourse.9c394db08a.mp3",
+      "hash": "9c394db08a",
+      "text": "Of course.",
+      "durationMs": 1267,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "ack.thanks": {
+      "file": "ack.thanks.a7e0a389fc.mp3",
+      "hash": "a7e0a389fc",
+      "text": "Thank you.",
+      "durationMs": 1203,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-09482a1b": {
+      "file": "c.p1.q-09482a1b.bc9c7dd414.mp3",
+      "hash": "bc9c7dd414",
+      "text": "What is your name?",
+      "durationMs": 1587,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-09d84ea7": {
+      "file": "c.p1.q-09d84ea7.089e4e3f36.mp3",
+      "hash": "089e4e3f36",
+      "text": "What personal qualities are important to you in a friend?",
+      "durationMs": 4168,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-16f6db2f": {
+      "file": "c.p1.q-16f6db2f.88620b9104.mp3",
+      "hash": "88620b9104",
+      "text": "How has staying up late affected your daily routine or productivity?",
+      "durationMs": 5021,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-1d8e04fb": {
+      "file": "c.p1.q-1d8e04fb.11dcc23e89.mp3",
+      "hash": "11dcc23e89",
+      "text": "What do you think your best personal qualities are?",
+      "durationMs": 3315,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-2be5cd90": {
+      "file": "c.p1.q-2be5cd90.498102f42d.mp3",
+      "hash": "498102f42d",
+      "text": "How much walking do you do in your daily life?",
+      "durationMs": 3421,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-2d8e83a9": {
+      "file": "c.p1.q-2d8e83a9.4384d3c33b.mp3",
+      "hash": "4384d3c33b",
+      "text": "Do you think you have the personal qualities to be a good/successful leader?",
+      "durationMs": 5235,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-317fcb50": {
+      "file": "c.p1.q-317fcb50.c3333b26e4.mp3",
+      "hash": "c3333b26e4",
+      "text": "What don’t you like about chocolate?",
+      "durationMs": 2312,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-37ae4f91": {
+      "file": "c.p1.q-37ae4f91.aa0c4b532a.mp3",
+      "hash": "aa0c4b532a",
+      "text": "Do you feel that the price of public transportation in your country is fair?",
+      "durationMs": 5064,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-3a9c2707": {
+      "file": "c.p1.q-3a9c2707.3dffbaf397.mp3",
+      "hash": "3dffbaf397",
+      "text": "How often do you eat typical food from other countries?",
+      "durationMs": 3741,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-3b691bd9": {
+      "file": "c.p1.q-3b691bd9.884bfc9f06.mp3",
+      "hash": "884bfc9f06",
+      "text": "Why do you stay up late?",
+      "durationMs": 1779,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-46c55a28": {
+      "file": "c.p1.q-46c55a28.2a0c4e1e4f.mp3",
+      "hash": "2a0c4e1e4f",
+      "text": "Do you like eating chocolate?",
+      "durationMs": 2141,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-542c3d5a": {
+      "file": "c.p1.q-542c3d5a.5bc17b266a.mp3",
+      "hash": "5bc17b266a",
+      "text": "What places are there to go for a walk near where you live?",
+      "durationMs": 3827,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-6d8dbaa9": {
+      "file": "c.p1.q-6d8dbaa9.3a1082d475.mp3",
+      "hash": "3a1082d475",
+      "text": "How do you feel in the morning after staying up late?",
+      "durationMs": 3549,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-6d9e5eb0": {
+      "file": "c.p1.q-6d9e5eb0.6d5d7b3f31.mp3",
+      "hash": "6d5d7b3f31",
+      "text": "What is your reason for using public transport?",
+      "durationMs": 3400,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-77ec7700": {
+      "file": "c.p1.q-77ec7700.71c6a17df9.mp3",
+      "hash": "71c6a17df9",
+      "text": "Are there any kinds of fruit that you don’t like eating?",
+      "durationMs": 3464,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-7a96fd03": {
+      "file": "c.p1.q-7a96fd03.ec4e9a4024.mp3",
+      "hash": "ec4e9a4024",
+      "text": "What food from your country would you recommend to people from other countries?",
+      "durationMs": 4936,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-83e8ce21": {
+      "file": "c.p1.q-83e8ce21.6b0dd6401a.mp3",
+      "hash": "6b0dd6401a",
+      "text": "Do you stay up late at night?",
+      "durationMs": 2056,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-8c7fc2e3": {
+      "file": "c.p1.q-8c7fc2e3.1b8ca34169.mp3",
+      "hash": "1b8ca34169",
+      "text": "What’s your favourite fruit?",
+      "durationMs": 1949,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-9f582f89": {
+      "file": "c.p1.q-9f582f89.77baa5af5b.mp3",
+      "hash": "77baa5af5b",
+      "text": "Did you walk more when you were at school than now?",
+      "durationMs": 3379,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-aa87de46": {
+      "file": "c.p1.q-aa87de46.695a247c7b.mp3",
+      "hash": "695a247c7b",
+      "text": "Do you have the same personal qualities as your parents?",
+      "durationMs": 3869,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-c74728d6": {
+      "file": "c.p1.q-c74728d6.54f9930a20.mp3",
+      "hash": "54f9930a20",
+      "text": "Do you like eating cooked food that has fruit in it?",
+      "durationMs": 3272,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-c9c9a7ed": {
+      "file": "c.p1.q-c9c9a7ed.0e949cf587.mp3",
+      "hash": "0e949cf587",
+      "text": "Did your mother encourage you to stay up late when you were young?",
+      "durationMs": 4040,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-cb13426a": {
+      "file": "c.p1.q-cb13426a.da1d383f7c.mp3",
+      "hash": "da1d383f7c",
+      "text": "Have you ever found using public transport inconvenient?",
+      "durationMs": 4253,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-cf44b2f8": {
+      "file": "c.p1.q-cf44b2f8.c1f45d05fd.mp3",
+      "hash": "c1f45d05fd",
+      "text": "Are you currently using public transport more than before?",
+      "durationMs": 3976,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-d8fca29f": {
+      "file": "c.p1.q-d8fca29f.cc1436b296.mp3",
+      "hash": "cc1436b296",
+      "text": "Do you work or study?",
+      "durationMs": 1971,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-de9b4e5e": {
+      "file": "c.p1.q-de9b4e5e.8438e3b033.mp3",
+      "hash": "8438e3b033",
+      "text": "How do you get to work?",
+      "durationMs": 1736,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-e12aeca1": {
+      "file": "c.p1.q-e12aeca1.66cde3315f.mp3",
+      "hash": "66cde3315f",
+      "text": "Where’s the best place to buy fruit where you live?",
+      "durationMs": 3293,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-e1f9f7c3": {
+      "file": "c.p1.q-e1f9f7c3.c36c585531.mp3",
+      "hash": "c36c585531",
+      "text": "Did you enjoy chocolate when you first tried it?",
+      "durationMs": 3272,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-e6e9cb87": {
+      "file": "c.p1.q-e6e9cb87.d7a76464a8.mp3",
+      "hash": "d7a76464a8",
+      "text": "Do you use public transport?",
+      "durationMs": 2141,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-eae20a68": {
+      "file": "c.p1.q-eae20a68.5250b1b33a.mp3",
+      "hash": "5250b1b33a",
+      "text": "Have you ever tried making food from another country?",
+      "durationMs": 3763,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-f8db0340": {
+      "file": "c.p1.q-f8db0340.5a805df81f.mp3",
+      "hash": "5a805df81f",
+      "text": "Would you ever like to go on a walking holiday?",
+      "durationMs": 3315,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.q-fdc9d4dc": {
+      "file": "c.p1.q-fdc9d4dc.dc26c0aa3f.mp3",
+      "hash": "dc26c0aa3f",
+      "text": "How could public transport be improved in your city or town?",
+      "durationMs": 4509,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.t-571e68a4.intro": {
+      "file": "c.p1.t-571e68a4.intro.2f381b7a4d.mp3",
+      "hash": "2f381b7a4d",
+      "text": "Let's talk about work and public transport",
+      "durationMs": 3229,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.t-a5d65bde.intro": {
+      "file": "c.p1.t-a5d65bde.intro.4f1e790a16.mp3",
+      "hash": "4f1e790a16",
+      "text": "Let's talk about your Personal Qualities",
+      "durationMs": 2909,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.t-a988f25f.intro": {
+      "file": "c.p1.t-a988f25f.intro.f4e449cfb4.mp3",
+      "hash": "f4e449cfb4",
+      "text": "Can you find food from many different countries where you live?",
+      "durationMs": 3997,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.t-ad304d14.intro": {
+      "file": "c.p1.t-ad304d14.intro.cc03fdff1f.mp3",
+      "hash": "cc03fdff1f",
+      "text": "Let's talk about fruit",
+      "durationMs": 1907,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.t-ee03d47e.intro": {
+      "file": "c.p1.t-ee03d47e.intro.2b92be7d4a.mp3",
+      "hash": "2b92be7d4a",
+      "text": "Let's talk about Chocolate and Staying Up Late",
+      "durationMs": 3315,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.t-fbdb67d3.intro": {
+      "file": "c.p1.t-fbdb67d3.intro.2f99953e2a.mp3",
+      "hash": "2f99953e2a",
+      "text": "Let's talk about your hometown",
+      "durationMs": 2333,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.walking-1": {
+      "file": "c.p1.walking-1.498102f42d.mp3",
+      "hash": "498102f42d",
+      "text": "How much walking do you do in your daily life?",
+      "durationMs": 3421,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.walking-2": {
+      "file": "c.p1.walking-2.77baa5af5b.mp3",
+      "hash": "77baa5af5b",
+      "text": "Did you walk more when you were at school than now?",
+      "durationMs": 3379,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.walking-3": {
+      "file": "c.p1.walking-3.5bc17b266a.mp3",
+      "hash": "5bc17b266a",
+      "text": "What places are there to go for a walk near where you live?",
+      "durationMs": 3827,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.walking-4": {
+      "file": "c.p1.walking-4.5a805df81f.mp3",
+      "hash": "5a805df81f",
+      "text": "Would you ever like to go on a walking holiday?",
+      "durationMs": 3315,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.walking.intro": {
+      "file": "c.p1.walking.intro.79556bf4fc.mp3",
+      "hash": "79556bf4fc",
+      "text": "Now, let's talk about walking.",
+      "durationMs": 2291,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.work-study-1": {
+      "file": "c.p1.work-study-1.854e1f6a98.mp3",
+      "hash": "854e1f6a98",
+      "text": "Do you work, or are you a student?",
+      "durationMs": 2803,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.work-study-2": {
+      "file": "c.p1.work-study-2.7b8ad5399f.mp3",
+      "hash": "7b8ad5399f",
+      "text": "What do you enjoy most about your work or your studies?",
+      "durationMs": 3699,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.work-study-3": {
+      "file": "c.p1.work-study-3.a36b83f811.mp3",
+      "hash": "a36b83f811",
+      "text": "Is there anything you would like to change about your work or your studies?",
+      "durationMs": 4744,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p1.work-study.intro": {
+      "file": "c.p1.work-study.intro.fcfaf892af.mp3",
+      "hash": "fcfaf892af",
+      "text": "First, let's talk about what you do.",
+      "durationMs": 2589,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-0c77d8b1.prompt": {
+      "file": "c.p2.card-0c77d8b1.prompt.7248dfd521.mp3",
+      "hash": "7248dfd521",
+      "text": "I'd like you to describe a time when someone gave you something that you really wanted.",
+      "durationMs": 5747,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-1412e259.prompt": {
+      "file": "c.p2.card-1412e259.prompt.ce71a14d66.mp3",
+      "hash": "ce71a14d66",
+      "text": "I'd like you to describe a time when you had a long discussion about a news story.",
+      "durationMs": 5768,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-15c22911.prompt": {
+      "file": "c.p2.card-15c22911.prompt.f149add8cb.mp3",
+      "hash": "f149add8cb",
+      "text": "I'd like you to describe a famous person you would like to meet.",
+      "durationMs": 4296,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-467b7491.prompt": {
+      "file": "c.p2.card-467b7491.prompt.41e4e6b7c7.mp3",
+      "hash": "41e4e6b7c7",
+      "text": "I'd like you to describe a beautiful sky you enjoyed seeing.",
+      "durationMs": 4360,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-575a5799.prompt": {
+      "file": "c.p2.card-575a5799.prompt.b7832709e0.mp3",
+      "hash": "b7832709e0",
+      "text": "I'd like you to describe an unusual food you ate.",
+      "durationMs": 3869,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-6e846147.prompt": {
+      "file": "c.p2.card-6e846147.prompt.d0218721a3.mp3",
+      "hash": "d0218721a3",
+      "text": "I'd like you to describe a photo you took that you are proud of.",
+      "durationMs": 4168,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-903db89d.prompt": {
+      "file": "c.p2.card-903db89d.prompt.84b20f0ee3.mp3",
+      "hash": "84b20f0ee3",
+      "text": "I'd like you to describe a time when you changed a plan you had made.",
+      "durationMs": 4808,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-a8744a48.prompt": {
+      "file": "c.p2.card-a8744a48.prompt.c175dcc052.mp3",
+      "hash": "c175dcc052",
+      "text": "I'd like you to talk about a time when you received money as a gift from a family member.",
+      "durationMs": 6088,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-bea4f16a.prompt": {
+      "file": "c.p2.card-bea4f16a.prompt.ab18ea794a.mp3",
+      "hash": "ab18ea794a",
+      "text": "I'd like you to describe a play or a film you have seen that you would like to see again with friends.",
+      "durationMs": 6003,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.card-d7f0d76f.prompt": {
+      "file": "c.p2.card-d7f0d76f.prompt.06ff721194.mp3",
+      "hash": "06ff721194",
+      "text": "I'd like you to describe a law that was introduced in your country.",
+      "durationMs": 4829,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.film-again-r1": {
+      "file": "c.p2.film-again-r1.e03c22f79e.mp3",
+      "hash": "e03c22f79e",
+      "text": "Do you usually go to see plays or films with friends?",
+      "durationMs": 3677,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.film-again-r2": {
+      "file": "c.p2.film-again-r2.cc61e0287b.mp3",
+      "hash": "cc61e0287b",
+      "text": "Do your friends have similar tastes to you?",
+      "durationMs": 3101,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p2.film-again.prompt": {
+      "file": "c.p2.film-again.prompt.ab18ea794a.mp3",
+      "hash": "ab18ea794a",
+      "text": "I'd like you to describe a play or a film you have seen that you would like to see again with friends.",
+      "durationMs": 6003,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-1": {
+      "file": "c.p3.actor-1.c0eeee7896.mp3",
+      "hash": "c0eeee7896",
+      "text": "What do you think attracts people to working as an actor?",
+      "durationMs": 3613,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-1.fu1": {
+      "file": "c.p3.actor-1.fu1.674d8bc625.mp3",
+      "hash": "674d8bc625",
+      "text": "Can you give me an example?",
+      "durationMs": 2440,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-1.rephrase": {
+      "file": "c.p3.actor-1.rephrase.4972513393.mp3",
+      "hash": "4972513393",
+      "text": "Why do you think some people want to become actors?",
+      "durationMs": 3272,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-2": {
+      "file": "c.p3.actor-2.58d742c457.mp3",
+      "hash": "58d742c457",
+      "text": "What are some of the qualities that a person needs to have if they want to become an actor?",
+      "durationMs": 5725,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-2.fu1": {
+      "file": "c.p3.actor-2.fu1.261973a0c3.mp3",
+      "hash": "261973a0c3",
+      "text": "Why is that important?",
+      "durationMs": 2077,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-2.rephrase": {
+      "file": "c.p3.actor-2.rephrase.f23ebbf67d.mp3",
+      "hash": "f23ebbf67d",
+      "text": "What kind of personality or skills does someone need to be a good actor?",
+      "durationMs": 5000,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-3": {
+      "file": "c.p3.actor-3.973fe12704.mp3",
+      "hash": "973fe12704",
+      "text": "Can you think of any disadvantages of working as an actor?",
+      "durationMs": 4317,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-3.fu1": {
+      "file": "c.p3.actor-3.fu1.83d5a056a8.mp3",
+      "hash": "83d5a056a8",
+      "text": "Do you think those difficulties are worth it?",
+      "durationMs": 3187,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.actor-3.rephrase": {
+      "file": "c.p3.actor-3.rephrase.d5f9904898.mp3",
+      "hash": "d5f9904898",
+      "text": "What are some of the difficulties of an acting career?",
+      "durationMs": 3571,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.being-an-actor.intro": {
+      "file": "c.p3.being-an-actor.intro.6cd1aa990c.mp3",
+      "hash": "6cd1aa990c",
+      "text": "Now let's talk about being an actor.",
+      "durationMs": 2696,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-1412e259.intro": {
+      "file": "c.p3.card-1412e259.intro.140fb90946.mp3",
+      "hash": "140fb90946",
+      "text": "We've been talking about this topic, and I'd like to discuss with you one or two more general questions related to it.",
+      "durationMs": 7773,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-1412e259.only_intro": {
+      "file": "c.p3.card-1412e259.only_intro.30f3601a2f.mp3",
+      "hash": "30f3601a2f",
+      "text": "I'd like to discuss with you some general questions related to this topic.",
+      "durationMs": 5533,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-575a5799.intro": {
+      "file": "c.p3.card-575a5799.intro.140fb90946.mp3",
+      "hash": "140fb90946",
+      "text": "We've been talking about this topic, and I'd like to discuss with you one or two more general questions related to it.",
+      "durationMs": 7773,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-575a5799.only_intro": {
+      "file": "c.p3.card-575a5799.only_intro.30f3601a2f.mp3",
+      "hash": "30f3601a2f",
+      "text": "I'd like to discuss with you some general questions related to this topic.",
+      "durationMs": 5533,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-903db89d.intro": {
+      "file": "c.p3.card-903db89d.intro.140fb90946.mp3",
+      "hash": "140fb90946",
+      "text": "We've been talking about this topic, and I'd like to discuss with you one or two more general questions related to it.",
+      "durationMs": 7773,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-903db89d.only_intro": {
+      "file": "c.p3.card-903db89d.only_intro.30f3601a2f.mp3",
+      "hash": "30f3601a2f",
+      "text": "I'd like to discuss with you some general questions related to this topic.",
+      "durationMs": 5533,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-a8744a48.intro": {
+      "file": "c.p3.card-a8744a48.intro.140fb90946.mp3",
+      "hash": "140fb90946",
+      "text": "We've been talking about this topic, and I'd like to discuss with you one or two more general questions related to it.",
+      "durationMs": 7773,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-a8744a48.only_intro": {
+      "file": "c.p3.card-a8744a48.only_intro.30f3601a2f.mp3",
+      "hash": "30f3601a2f",
+      "text": "I'd like to discuss with you some general questions related to this topic.",
+      "durationMs": 5533,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-bea4f16a.intro": {
+      "file": "c.p3.card-bea4f16a.intro.140fb90946.mp3",
+      "hash": "140fb90946",
+      "text": "We've been talking about this topic, and I'd like to discuss with you one or two more general questions related to it.",
+      "durationMs": 7773,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-bea4f16a.only_intro": {
+      "file": "c.p3.card-bea4f16a.only_intro.30f3601a2f.mp3",
+      "hash": "30f3601a2f",
+      "text": "I'd like to discuss with you some general questions related to this topic.",
+      "durationMs": 5533,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-d7f0d76f.intro": {
+      "file": "c.p3.card-d7f0d76f.intro.140fb90946.mp3",
+      "hash": "140fb90946",
+      "text": "We've been talking about this topic, and I'd like to discuss with you one or two more general questions related to it.",
+      "durationMs": 7773,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.card-d7f0d76f.only_intro": {
+      "file": "c.p3.card-d7f0d76f.only_intro.30f3601a2f.mp3",
+      "hash": "30f3601a2f",
+      "text": "I'd like to discuss with you some general questions related to this topic.",
+      "durationMs": 5533,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.film-again.intro": {
+      "file": "c.p3.film-again.intro.737cc142c4.mp3",
+      "hash": "737cc142c4",
+      "text": "We've been talking about a play or a film you would like to see again, and I'd like to discuss with you one or two more general questions related to this.",
+      "durationMs": 9992,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.film-again.only_intro": {
+      "file": "c.p3.film-again.only_intro.9b1b686cc6.mp3",
+      "hash": "9b1b686cc6",
+      "text": "I'd like to discuss with you some general questions related to theatre and acting.",
+      "durationMs": 6131,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-095fb842": {
+      "file": "c.p3.q-095fb842.5f3a5908bc.mp3",
+      "hash": "5f3a5908bc",
+      "text": "What are the key personal qualities needed to be a successful lawyer?",
+      "durationMs": 4467,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-0ae81e48": {
+      "file": "c.p3.q-0ae81e48.87495b3918.mp3",
+      "hash": "87495b3918",
+      "text": "What kinds of people want to take part in discussion programmes?",
+      "durationMs": 4083,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-0c7eb4d0": {
+      "file": "c.p3.q-0c7eb4d0.81b94b1b97.mp3",
+      "hash": "81b94b1b97",
+      "text": "What are the most popular kinds of plays or shows at theatres in your country?",
+      "durationMs": 5235,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-0ef7cd3f": {
+      "file": "c.p3.q-0ef7cd3f.58d742c457.mp3",
+      "hash": "58d742c457",
+      "text": "What are some of the qualities that a person needs to have if they want to become an actor?",
+      "durationMs": 5725,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-185491e3": {
+      "file": "c.p3.q-185491e3.c0e5bfbe65.mp3",
+      "hash": "c0e5bfbe65",
+      "text": "What impact does importing food have on the local economy and culture?",
+      "durationMs": 5043,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-1acf25f4": {
+      "file": "c.p3.q-1acf25f4.6452dff591.mp3",
+      "hash": "6452dff591",
+      "text": "Why do you think people choose to eat out?",
+      "durationMs": 2632,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-23571e20": {
+      "file": "c.p3.q-23571e20.dbc8e3b666.mp3",
+      "hash": "dbc8e3b666",
+      "text": "What are some ways to improve food preservation?",
+      "durationMs": 3443,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-28d3be14": {
+      "file": "c.p3.q-28d3be14.a7f1d414e3.mp3",
+      "hash": "a7f1d414e3",
+      "text": "When making plans for the future, is it important not to copy friends?",
+      "durationMs": 4872,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-35e35d8c": {
+      "file": "c.p3.q-35e35d8c.b832926ad9.mp3",
+      "hash": "b832926ad9",
+      "text": "Is gifting money commonly done in your country?",
+      "durationMs": 3507,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-36ebe63c": {
+      "file": "c.p3.q-36ebe63c.0a5fa661c0.mp3",
+      "hash": "0a5fa661c0",
+      "text": "Why is it a good idea to get some work experience before deciding on a future career?",
+      "durationMs": 6173,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-3b53e3af": {
+      "file": "c.p3.q-3b53e3af.d298e517a8.mp3",
+      "hash": "d298e517a8",
+      "text": "Do you agree that working in the legal profession is very stressful?",
+      "durationMs": 4509,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-3c575c0a": {
+      "file": "c.p3.q-3c575c0a.660c9b3a7c.mp3",
+      "hash": "660c9b3a7c",
+      "text": "Can you suggest why many students decide to study law at university?",
+      "durationMs": 5256,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-3fc77f54": {
+      "file": "c.p3.q-3fc77f54.c0eeee7896.mp3",
+      "hash": "c0eeee7896",
+      "text": "What do you think attracts people to working as an actor?",
+      "durationMs": 3613,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-4ff4aad8": {
+      "file": "c.p3.q-4ff4aad8.7fbd609b54.mp3",
+      "hash": "7fbd609b54",
+      "text": "Do you often eat out, and do you think it is good to eat out?",
+      "durationMs": 3720,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-58dd88b0": {
+      "file": "c.p3.q-58dd88b0.62f3b23ff9.mp3",
+      "hash": "62f3b23ff9",
+      "text": "What are some other gifts that people can give instead of money?",
+      "durationMs": 4083,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-77451fac": {
+      "file": "c.p3.q-77451fac.973fe12704.mp3",
+      "hash": "973fe12704",
+      "text": "Can you think of any disadvantages of working as an actor?",
+      "durationMs": 4317,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-82bae36a": {
+      "file": "c.p3.q-82bae36a.819134edfc.mp3",
+      "hash": "819134edfc",
+      "text": "What do you think about transporting food from one country to another?",
+      "durationMs": 4595,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-890708e7": {
+      "file": "c.p3.q-890708e7.5185624cbb.mp3",
+      "hash": "5185624cbb",
+      "text": "What kinds of plans do friends make together?",
+      "durationMs": 3293,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-89bacf59": {
+      "file": "c.p3.q-89bacf59.49e6cb70d3.mp3",
+      "hash": "49e6cb70d3",
+      "text": "Do you support gifting money to children? Why or why not?",
+      "durationMs": 4866,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-954bf464": {
+      "file": "c.p3.q-954bf464.eb8888d3d4.mp3",
+      "hash": "eb8888d3d4",
+      "text": "How easy do you think it is for people to change from one career to another?",
+      "durationMs": 5192,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-9c16ccdc": {
+      "file": "c.p3.q-9c16ccdc.7276668953.mp3",
+      "hash": "7276668953",
+      "text": "Do discussion programmes influence people in a good or bad way?",
+      "durationMs": 4872,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-9e3b8e99": {
+      "file": "c.p3.q-9e3b8e99.e99067828b.mp3",
+      "hash": "e99067828b",
+      "text": "How easy is it to get tickets to the theatre?",
+      "durationMs": 3549,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-9f7ae0f0": {
+      "file": "c.p3.q-9f7ae0f0.e309dd636d.mp3",
+      "hash": "e309dd636d",
+      "text": "Why are discussion programmes involving members of the public popular on TV and radio?",
+      "durationMs": 6685,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-a05bdc24": {
+      "file": "c.p3.q-a05bdc24.c631c34464.mp3",
+      "hash": "c631c34464",
+      "text": "Do you think theatres need to do more to attract younger audiences?",
+      "durationMs": 4872,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-b81c57ec": {
+      "file": "c.p3.q-b81c57ec.c2cb6309a4.mp3",
+      "hash": "c2cb6309a4",
+      "text": "Do you think it’s better to discuss future plans with friends or with family?",
+      "durationMs": 5256,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-c76336fa": {
+      "file": "c.p3.q-c76336fa.d3d9820c95.mp3",
+      "hash": "d3d9820c95",
+      "text": "How does the transportation of food affect its quality?",
+      "durationMs": 4019,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-cefd8839": {
+      "file": "c.p3.q-cefd8839.5f666fdd67.mp3",
+      "hash": "5f666fdd67",
+      "text": "When people are choosing what to study, how important is it that their course should lead directly to a career?",
+      "durationMs": 7347,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-e3f9c794": {
+      "file": "c.p3.q-e3f9c794.ec4fc29c75.mp3",
+      "hash": "ec4fc29c75",
+      "text": "Do you think children should get paid for doing chores? Why or why not?",
+      "durationMs": 5250,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-e4ce0e77": {
+      "file": "c.p3.q-e4ce0e77.77b586399b.mp3",
+      "hash": "77b586399b",
+      "text": "Does money make a good a gift? Why or why not?",
+      "durationMs": 4183,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-ed76b700": {
+      "file": "c.p3.q-ed76b700.3b1f77094f.mp3",
+      "hash": "3b1f77094f",
+      "text": "In what situations do you think it is inappropriate to give money as a gift?",
+      "durationMs": 5576,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-efea3485": {
+      "file": "c.p3.q-efea3485.c0b637ca6f.mp3",
+      "hash": "c0b637ca6f",
+      "text": "What kinds of rules are common in a school?",
+      "durationMs": 3037,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-f47d049f": {
+      "file": "c.p3.q-f47d049f.0909364533.mp3",
+      "hash": "0909364533",
+      "text": "What do you recommend should happen if children break school rules?",
+      "durationMs": 4232,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.q-f99a7a3f": {
+      "file": "c.p3.q-f99a7a3f.f349caf339.mp3",
+      "hash": "f349caf339",
+      "text": "How important is it to have rules in a school?",
+      "durationMs": 3507,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-0b6e1cae.intro": {
+      "file": "c.p3.s-0b6e1cae.intro.3d798a41ed.mp3",
+      "hash": "3d798a41ed",
+      "text": "Let's consider Career Planning and Development",
+      "durationMs": 3315,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-1d442f46.intro": {
+      "file": "c.p3.s-1d442f46.intro.ee10a3d936.mp3",
+      "hash": "ee10a3d936",
+      "text": "Let's talk about transporting food",
+      "durationMs": 2717,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-1edc6049.intro": {
+      "file": "c.p3.s-1edc6049.intro.709fefa96f.mp3",
+      "hash": "709fefa96f",
+      "text": "Let's talk about Gifting Money",
+      "durationMs": 2376,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-20d66de0.intro": {
+      "file": "c.p3.s-20d66de0.intro.4fcb26fae5.mp3",
+      "hash": "4fcb26fae5",
+      "text": "Let's consider first of all Theatre Culture",
+      "durationMs": 3464,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-5d5809cb.intro": {
+      "file": "c.p3.s-5d5809cb.intro.861527aba1.mp3",
+      "hash": "861527aba1",
+      "text": "Now Let's talk about Working in the legal profession",
+      "durationMs": 3741,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-65d4afd6.intro": {
+      "file": "c.p3.s-65d4afd6.intro.fef63b512d.mp3",
+      "hash": "fef63b512d",
+      "text": "Now let's talk about Making Plans with Friends",
+      "durationMs": 3187,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-674c49fd.intro": {
+      "file": "c.p3.s-674c49fd.intro.73a3b6c32e.mp3",
+      "hash": "73a3b6c32e",
+      "text": "Now Let's talk about Being an Actor",
+      "durationMs": 2653,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-c48e0af3.intro": {
+      "file": "c.p3.s-c48e0af3.intro.1fe5d6e7bb.mp3",
+      "hash": "1fe5d6e7bb",
+      "text": "Now, let's talk about Public Debates and Talk Shows",
+      "durationMs": 3613,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.s-cefafd77.intro": {
+      "file": "c.p3.s-cefafd77.intro.c0b637ca6f.mp3",
+      "hash": "c0b637ca6f",
+      "text": "What kinds of rules are common in a school?",
+      "durationMs": 3037,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-1": {
+      "file": "c.p3.theatre-1.81b94b1b97.mp3",
+      "hash": "81b94b1b97",
+      "text": "What are the most popular kinds of plays or shows at theatres in your country?",
+      "durationMs": 5235,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-1.fu1": {
+      "file": "c.p3.theatre-1.fu1.0f04ed338f.mp3",
+      "hash": "0f04ed338f",
+      "text": "Why do you think those are so popular?",
+      "durationMs": 2696,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-1.rephrase": {
+      "file": "c.p3.theatre-1.rephrase.0e4696b9e3.mp3",
+      "hash": "0e4696b9e3",
+      "text": "What sorts of shows do people in your country most like to see at the theatre?",
+      "durationMs": 5128,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-2": {
+      "file": "c.p3.theatre-2.e99067828b.mp3",
+      "hash": "e99067828b",
+      "text": "How easy is it to get tickets to the theatre?",
+      "durationMs": 3549,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-2.fu1": {
+      "file": "c.p3.theatre-2.fu1.343a47b445.mp3",
+      "hash": "343a47b445",
+      "text": "Why do you think that is?",
+      "durationMs": 1885,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-2.rephrase": {
+      "file": "c.p3.theatre-2.rephrase.91731e3f5b.mp3",
+      "hash": "91731e3f5b",
+      "text": "Is it easy or difficult for people to buy theatre tickets where you live?",
+      "durationMs": 5021,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-3": {
+      "file": "c.p3.theatre-3.c631c34464.mp3",
+      "hash": "c631c34464",
+      "text": "Do you think theatres need to do more to attract younger audiences?",
+      "durationMs": 4872,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-3.fu1": {
+      "file": "c.p3.theatre-3.fu1.d3202b4096.mp3",
+      "hash": "d3202b4096",
+      "text": "What could they do?",
+      "durationMs": 1608,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-3.rephrase": {
+      "file": "c.p3.theatre-3.rephrase.cb137a2d31.mp3",
+      "hash": "cb137a2d31",
+      "text": "Should theatres try harder to get young people to come to their shows?",
+      "durationMs": 4659,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "c.p3.theatre-culture.intro": {
+      "file": "c.p3.theatre-culture.intro.8baa0ff6af.mp3",
+      "hash": "8baa0ff6af",
+      "text": "Let's consider first of all theatre culture.",
+      "durationMs": 3421,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "clarify.p1": {
+      "file": "clarify.p1.a146d19b3b.mp3",
+      "hash": "a146d19b3b",
+      "text": "I'm afraid I can't explain that. Please answer the question as best you can.",
+      "durationMs": 6146,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "close.early": {
+      "file": "close.early.8534ab6bca.mp3",
+      "hash": "8534ab6bca",
+      "text": "The test has now ended. Your answers so far will be assessed where possible.",
+      "durationMs": 6018,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "close.full": {
+      "file": "close.full.f0d5ef1278.mp3",
+      "hash": "f0d5ef1278",
+      "text": "Thank you. That is the end of the Speaking test. Your responses will now be assessed, and your estimated band score with detailed feedback will be ready in a few moments. Goodbye.",
+      "durationMs": 13921,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "close.part": {
+      "file": "close.part.a4ebd64169.mp3",
+      "hash": "a4ebd64169",
+      "text": "Thank you. That is the end of this practice test. Your responses will now be assessed, and your estimated band score with feedback will be ready shortly. Goodbye.",
+      "durationMs": 12726,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "deflect.opinion": {
+      "file": "deflect.opinion.1444fe4d3c.mp3",
+      "hash": "1444fe4d3c",
+      "text": "I'm afraid I can't give my own opinion in the test. Let's go back to the question.",
+      "durationMs": 5933,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "guide.takeyourtime": {
+      "file": "guide.takeyourtime.3af7c318a2.mp3",
+      "hash": "3af7c318a2",
+      "text": "Take your time.",
+      "durationMs": 1587,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "meta.continue": {
+      "file": "meta.continue.d60b681a2e.mp3",
+      "hash": "d60b681a2e",
+      "text": "Please answer the question as fully as you can.",
+      "durationMs": 3613,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.begin": {
+      "file": "open.begin.e0b39d1187.mp3",
+      "hash": "e0b39d1187",
+      "text": "Let's begin.",
+      "durationMs": 1395,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.format.full": {
+      "file": "open.format.full.971ca8ccbd.mp3",
+      "hash": "971ca8ccbd",
+      "text": "The Speaking test has three parts and lasts between eleven and fourteen minutes. In Part 1, I will ask you some questions about yourself and about familiar topics. In Part 2, I will give you a topic. You will have one minute to prepare, and then you will speak about it for one to two minutes. In Part 3, we will discuss some more general questions connected to that topic. Please answer each question as fully as you can.",
+      "durationMs": 29695,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.format.part1": {
+      "file": "open.format.part1.17af91f57d.mp3",
+      "hash": "17af91f57d",
+      "text": "Today you will practice Part 1 of the Speaking test. This part lasts four to five minutes. I will ask you some questions about yourself and about familiar, everyday topics. Please answer naturally and give some detail.",
+      "durationMs": 15926,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.format.part2": {
+      "file": "open.format.part2.710905b702.mp3",
+      "hash": "710905b702",
+      "text": "Today you will practice Part 2 of the Speaking test. This part lasts three to four minutes. I will give you a topic. You will have one minute to prepare, and you may make notes. Then you will speak about the topic for one to two minutes. I will stop you when the time is up.",
+      "durationMs": 19093,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.format.part3": {
+      "file": "open.format.part3.6e8a00d91c.mp3",
+      "hash": "6e8a00d91c",
+      "text": "Today you will practice Part 3 of the Speaking test. This part lasts four to five minutes. We will discuss some general questions. Please give your opinions and explain your reasons as fully as you can.",
+      "durationMs": 14710,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.greet.afternoon": {
+      "file": "open.greet.afternoon.889f347e9f.mp3",
+      "hash": "889f347e9f",
+      "text": "Good afternoon. My name is James Carter, and I will be your examiner today.",
+      "durationMs": 6487,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.greet.evening": {
+      "file": "open.greet.evening.46ea10d85d.mp3",
+      "hash": "46ea10d85d",
+      "text": "Good evening. My name is James Carter, and I will be your examiner today.",
+      "durationMs": 6189,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.greet.morning": {
+      "file": "open.greet.morning.c2d365da48.mp3",
+      "hash": "c2d365da48",
+      "text": "Good morning. My name is James Carter, and I will be your examiner today.",
+      "durationMs": 6146,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.name": {
+      "file": "open.name.697e707147.mp3",
+      "hash": "697e707147",
+      "text": "Can you tell me your full name, please?",
+      "durationMs": 2611,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "open.purpose": {
+      "file": "open.purpose.62274d664c.mp3",
+      "hash": "62274d664c",
+      "text": "This is a practice IELTS Speaking test. It is recorded so that your performance can be assessed.",
+      "durationMs": 6935,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p1.end": {
+      "file": "p1.end.4200ef51a6.mp3",
+      "hash": "4200ef51a6",
+      "text": "Thank you. That is the end of Part 1.",
+      "durationMs": 3906,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p1.intro": {
+      "file": "p1.intro.38048beeb4.mp3",
+      "hash": "38048beeb4",
+      "text": "In this first part, I'd like to ask you some questions about yourself.",
+      "durationMs": 4595,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p1.moveon": {
+      "file": "p1.moveon.2d438389bc.mp3",
+      "hash": "2d438389bc",
+      "text": "That's all right. Let's move on.",
+      "durationMs": 3010,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p1.repeat": {
+      "file": "p1.repeat.5871aa253b.mp3",
+      "hash": "5871aa253b",
+      "text": "I'll repeat the question.",
+      "durationMs": 1885,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p1.why": {
+      "file": "p1.why.687059e823.mp3",
+      "hash": "687059e823",
+      "text": "Why?",
+      "durationMs": 1032,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p1.whynot": {
+      "file": "p1.whynot.4247d4fe1c.mp3",
+      "hash": "4247d4fe1c",
+      "text": "Why not?",
+      "durationMs": 1160,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.cardinfo": {
+      "file": "p2.cardinfo.799d0a157e.mp3",
+      "hash": "799d0a157e",
+      "text": "Your topic is on the card in front of you. Please start speaking now.",
+      "durationMs": 5250,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.end": {
+      "file": "p2.end.efddee730c.mp3",
+      "hash": "efddee730c",
+      "text": "That is the end of Part 2.",
+      "durationMs": 2611,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.intro": {
+      "file": "p2.intro.87752e6027.mp3",
+      "hash": "87752e6027",
+      "text": "Now, I'm going to give you a topic, and I'd like you to talk about it for one to two minutes. Before you talk, you'll have one minute to think about what you are going to say. You can make some notes if you wish, using a pen and paper or the notes box on your screen. Here is your topic.",
+      "durationMs": 18913,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.more": {
+      "file": "p2.more.ebf29e5abf.mp3",
+      "hash": "ebf29e5abf",
+      "text": "Can you tell me anything more about that?",
+      "durationMs": 2888,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.notes.away": {
+      "file": "p2.notes.away.b5adee6428.mp3",
+      "hash": "b5adee6428",
+      "text": "Thank you. You can put your notes away now.",
+      "durationMs": 3735,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.nudge": {
+      "file": "p2.nudge.99e41f7b5f.mp3",
+      "hash": "99e41f7b5f",
+      "text": "Can you start speaking now, please?",
+      "durationMs": 2504,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.prep.10s": {
+      "file": "p2.prep.10s.f3a441c342.mp3",
+      "hash": "f3a441c342",
+      "text": "You have ten seconds left.",
+      "durationMs": 2184,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.prep.end": {
+      "file": "p2.prep.end.ea9598b97c.mp3",
+      "hash": "ea9598b97c",
+      "text": "Your preparation time is over. Remember, you have one to two minutes for this, so don't worry if I stop you. I'll tell you when the time is up. Can you start speaking now, please?",
+      "durationMs": 12662,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.prep.start": {
+      "file": "p2.prep.start.150f254892.mp3",
+      "hash": "150f254892",
+      "text": "You have one minute to prepare. Your time starts now.",
+      "durationMs": 4503,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p2.timeup": {
+      "file": "p2.timeup.86da7e69d3.mp3",
+      "hash": "86da7e69d3",
+      "text": "Thank you. That is the end of your time.",
+      "durationMs": 3927,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p3.end": {
+      "file": "p3.end.01f65306ab.mp3",
+      "hash": "01f65306ab",
+      "text": "Thank you. That is the end of Part 3.",
+      "durationMs": 3906,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "p3.rephrase": {
+      "file": "p3.rephrase.03b22fe1a0.mp3",
+      "hash": "03b22fe1a0",
+      "text": "Let me put that another way.",
+      "durationMs": 2227,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "probe.agree": {
+      "file": "probe.agree.72061901bc.mp3",
+      "hash": "72061901bc",
+      "text": "Do you think everyone would agree with that?",
+      "durationMs": 3059,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "probe.compare": {
+      "file": "probe.compare.a74d43489e.mp3",
+      "hash": "a74d43489e",
+      "text": "How is that different from the past?",
+      "durationMs": 2611,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "probe.example": {
+      "file": "probe.example.674d8bc625.mp3",
+      "hash": "674d8bc625",
+      "text": "Can you give me an example?",
+      "durationMs": 2440,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "probe.future": {
+      "file": "probe.future.1cb8cb03b3.mp3",
+      "hash": "1cb8cb03b3",
+      "text": "Do you think that will change in the future?",
+      "durationMs": 2931,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "probe.more": {
+      "file": "probe.more.8af57647ee.mp3",
+      "hash": "8af57647ee",
+      "text": "Could you tell me a bit more about that?",
+      "durationMs": 2568,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "probe.why": {
+      "file": "probe.why.343a47b445.mp3",
+      "hash": "343a47b445",
+      "text": "Why do you think that is?",
+      "durationMs": 1885,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "reask.lead": {
+      "file": "reask.lead.8179972fb0.mp3",
+      "hash": "8179972fb0",
+      "text": "Let me ask you the question again.",
+      "durationMs": 2483,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "repeat.limit": {
+      "file": "repeat.limit.99ea4f862b.mp3",
+      "hash": "99ea4f862b",
+      "text": "I'm afraid I can't repeat the question again. Please answer as best you can.",
+      "durationMs": 6231,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "resume.continue": {
+      "file": "resume.continue.2324666172.mp3",
+      "hash": "2324666172",
+      "text": "Let's continue from where we stopped.",
+      "durationMs": 2589,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "skip.ok": {
+      "file": "skip.ok.481ff7d934.mp3",
+      "hash": "481ff7d934",
+      "text": "That's all right.",
+      "durationMs": 1480,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "stop.info": {
+      "file": "stop.info.e03c07028b.mp3",
+      "hash": "e03c07028b",
+      "text": "If you would like to finish the test, please select End test. Otherwise, let's continue.",
+      "durationMs": 6295,
+      "engine": "kokoro",
+      "voice": "bm_george"
+    }
+  }
+}
