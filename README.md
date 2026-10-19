@@ -26,7 +26,6 @@ An AI speaking examiner that runs the full three-part IELTS Speaking test with o
 
 - [Why Bandly](#why-bandly)
 - [Features](#features)
-- [How it works](#how-it-works)
 - [Screenshots](#screenshots)
 - [Tech stack](#tech-stack)
 - [Run it locally](#run-it-locally)
@@ -60,21 +59,7 @@ Most IELTS candidates never practise Speaking under real exam conditions. A huma
 - **Free tools.** An IELTS band score calculator (overall band, and Listening or Reading raw scores) and a curated resources page.
 - **Designed for every screen.** Light, dark and system themes, and a responsive layout from small phones to wide desktops.
 
-## How it works
 
-```mermaid
-flowchart LR
-    A[🎙️ Candidate speaks] --> B[Browser records the answer]
-    B --> C[Groq Whisper<br/>speech-to-text]
-    C --> D[Groq LLM<br/>analyses the answer]
-    D --> E{Exam engine}
-    E -->|follow-up, probe<br/>or next question| F[🔊 Examiner voice<br/>pre-rendered Kokoro clips]
-    F --> A
-    E -->|test finished| G[Groq LLM<br/>band scoring]
-    G --> H[📊 Report: band and<br/>feedback per criterion]
-```
-
-**The exam engine** is pure TypeScript: no React, DOM or network code. It compiles each test into a timed blueprint and runs it on a clock that the unit tests can simulate. The LLM never writes what the examiner says. Every examiner line comes from a fixed script, just like in the real exam.
 
 ## Screenshots
 
@@ -244,8 +229,4 @@ tests/              Database, end-to-end and live tests
 
 ## License
 
-<<<<<<< HEAD
-© 2026 [Aman554-EQ](https://github.com/Aman554-EQ). All rights reserved. Shared for learning and portfolio purposes.
-=======
 © [Aman554-EQ](https://github.com/Aman554-EQ). All rights reserved. Shared for learning and portfolio purposes.
->>>>>>> 99a0d89787fd4ed198afe4d7e96bc190fefc4953
