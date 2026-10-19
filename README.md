@@ -244,4 +244,8 @@ tests/              Database, end-to-end and live tests
 
 ## License
 
+<<<<<<< HEAD
 © 2026 [Aman554-EQ](https://github.com/Aman554-EQ). All rights reserved. Shared for learning and portfolio purposes.
+=======
+© [Aman554-EQ](https://github.com/Aman554-EQ). All rights reserved. Shared for learning and portfolio purposes.
+>>>>>>> 99a0d89787fd4ed198afe4d7e96bc190fefc4953
